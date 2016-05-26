@@ -20,11 +20,11 @@
     var paragraphs = [];
     
     // data for my pages
-    paragraphs[0] = "Hey, I'm Meer!" + " I'm an Engineer, fitness fnatic, and dedicated PC gamer."
+    paragraphs[0] = "Hey, I'm Meer!" + " I'm an Engineer, fitness fanatic, and dedicated PC gamer."
     paragraphs[1] = " On this page, you will be able to see some of my previous and on-going projects!"
-    paragraphs[2] = " I'm a Civil Engineer graduate from Seneca College, Progress Campus." 
-    + " I worked professionally as a Civil Engineer for 2 years and realized that I would like to pursue a different career." 
-    + " I enjoy First Person Shooter video games." + " I'm also a PC hardware enthusiast, as I have build my on PC - more information would be found on My Projects page."
+    paragraphs[2] = " I'm a Civil Engineer graduate from Seneca College, Newnham Campus." 
+    + " I worked professionally as a Civil Engineer for 2 years and realized that I would like to pursue a different career." + " I'm currently enrolled in Centennial College as a Software Engineer."
+    + " I enjoy First Person Shooter video games." + " I'm also a PC hardware enthusiast, as I have build my own PC - more information would be found on My Projects page."
     
     // second way to define an array
     // var paragraphs = new Array();
